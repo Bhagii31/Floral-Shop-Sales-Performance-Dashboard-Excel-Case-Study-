@@ -1,0 +1,2 @@
+# Floral-Shop-Sales-Performance-Dashboard-Excel-Case-Study-
+Excel analytics project using a messy retail transactions dataset. Performed data cleaning/standardization, engineered features (discount buckets, month/season fields), and built an interactive dashboard with PivotTables/Charts and slicers to evaluate category profitability, discount impact on sales/profit, channel mix, and seasonal peaks.
